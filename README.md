@@ -7,4 +7,4 @@ In its current state there is no database to back up the system and it won't
 operate as originally intended. This is more of a showcase of the code and teamwork involved.
 
 ### Note
-> *Any passwords or other information present is entirely for example. They are not real passwords and instead are used as placeholders or examples.*
+> *Any passwords or other information present is entirely for example, they are used as placeholders and/or examples.*
